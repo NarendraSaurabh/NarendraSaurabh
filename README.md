@@ -1,12 +1,12 @@
 ![logo](https://github.com/NarendraSaurabh/NarendraSaurabh/blob/main/Banner%20JPG.jpg)
 
 <h1 align="center">Hi 👋, I'm Narendra Saurabh</h1>
-<h3 align="center">A passionate Data Analyst Aspirant from India</h3>
+<h3 align="center">An Experienced Data Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 
 
-- 🔭 I’m currently working on [AtliQ Business Insights 360](https://www.linkedin.com/posts/narendra78700_dataanalytics-businessinsights360-codebasics-activity-7184981406849069057-u64m?utm_source=share&utm_medium=member_desktop)
+- 🔭 I’m currently working as a Data Analyst  (https://www.linkedin.com/posts/narendra78700_dataanalytics-businessinsights360-codebasics-activity-7184981406849069057-u64m?utm_source=share&utm_medium=member_desktop)
 
 - 🌱 I’m currently learning **Python**
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/narendra78700/](https://www.linkedin.com/in/narendra78700/)
 
-- 💬 Ask me about **Excel, SQL, Power BI, Data Manipulation**
+- 💬 Ask me about **Advanced Excel, SQL, Power BI, Python, Data Manipulation, Data Modelling, ETL**
 
 - 📫 How to reach me **narendrasaurabh20@gmail.com**
 
